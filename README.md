@@ -1,4 +1,4 @@
-# ORDERING PIZZA
+# Pizza Parlour
 
 ## Screen
 
